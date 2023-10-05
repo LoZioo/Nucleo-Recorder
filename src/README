@@ -1,0 +1,5 @@
+Nucleo-Recorder -> sorgenti client in java
+Nucleo-Recorder/Nucleo-Recorder.jar -> jar client
+
+stm32/stm32_unict_lib -> libreria <stm32_unict_lib.h> estesa con ulteriori funzionalita'
+stm32/audio.c -> firmware per STM32-F401RE
